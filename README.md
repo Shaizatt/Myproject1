@@ -1,9 +1,1 @@
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-## Portfolio Activity Exemplar: Use the NIST Cybersecurity Framework to respond to a security incident
+This project is about ethical hacking. I wrote my understanding from the course I took. The course name is Ethical Hacking from the freeCodeCamp YouTube channel. The course instructor is Head Adams.
